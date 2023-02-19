@@ -1,5 +1,5 @@
 {
-    "name": "elegantweb/sanitizer",
+    "name": "lnxd/sanitizer",
     "description": "Sanitization library for PHP and the Laravel framework.",
     "keywords": [
         "laravel",
